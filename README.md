@@ -7,3 +7,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * CSS
 
 # 🔖 Layout
+Image-calculadora.PNG
