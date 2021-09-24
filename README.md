@@ -3,7 +3,7 @@ A ideia principal foi criar um dispositivo para a realização de cálculos num�
 
 # 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-HTML5
-CSS
+* HTML5
+* CSS
 
 🔖 Layout
